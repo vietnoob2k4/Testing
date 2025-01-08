@@ -63,8 +63,10 @@ Chương trình tính tổng hai số nguyên đã hoạt động đúng như mo
 
 ## 6.Cải tiến:
 - **Chương trình trước khi cải tiến bằng chat gpt**: 7/10
-- **Chương trình sau khi cải tiến bằng chat gpt**: 8,7/10
+- **Chương trình sau khi cải tiến bằng chat gpt**: 9/10
+##Kiểm thử DemoApplication:
+![Ảnh chụp màn hình 2025-01-08 102809](https://github.com/user-attachments/assets/46c820df-4c09-476e-802b-9714a2c31b8d)
 
 
-![Ảnh chụp màn hình 2025-01-06 105714](https://github.com/user-attachments/assets/95b60cfb-adf0-45d6-83a0-570956718e50)
-
+##Kiểm thử CalculatorService:
+![Ảnh chụp màn hình 2025-01-08 102752](https://github.com/user-attachments/assets/ce6c3ac4-ddd3-4fb1-9315-9e8c932f5b6a)
